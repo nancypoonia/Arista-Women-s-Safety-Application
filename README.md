@@ -60,6 +60,9 @@ Arista
 
 This project aims to leverage mobile technology to improve women's safety by providing a quick-access emergency support system integrated with secure backend services.
 
-## 👩‍💻 Author
+## 👩‍💻 Team Members
 
 Nancy
+Priyal
+Shrey
+Vidipt
