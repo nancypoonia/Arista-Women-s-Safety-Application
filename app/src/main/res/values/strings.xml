@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ARISTA</string>
+
+
+
+    <!-- Logo Screen -->
+    <string name="app_tagline">UNIQUELY SAFE &amp; SECURE</string>
+
+    <!-- Splash 1 -->
+    <string name="splash1_title">Your Safety, Our Priority</string>
+    <string name="splash1_description">The objective is to develop a security system to improve the safety of women and children. The integrated system will provide features for emergency notification and location tracking.</string>
+
+    <!-- Splash 2 -->
+    <string name="splash2_title">Distance Monitoring</string>
+    <string name="splash2_description">The model works on distance range, when either the smartphone trip is on or the person using a smart phone is in fear. The LED goes on indicating that there is an emergency situation.</string>
+
+    <!-- Splash 3 -->
+    <string name="splash3_title">Simple Activation</string>
+    <string name="splash3_description">The process for activating emergency services monitors areas and puts in action the emergency protocols in minimum seconds of 1 minute.</string>
+
+    <!-- Splash 4 -->
+    <string name="splash4_title">Low False Positive Rate</string>
+    <string name="splash4_description">We aim to create a low false positive rate by incorporating safety features that are contextually aware so the device does not send any unnecessary alarm messages.</string>
+
+    <!-- Splash 5 -->
+    <string name="splash5_title">Our Aim</string>
+    <string name="splash5_description">Arista\'s functional prototype empowers women traveling alone by sending SOS message with location to the nearest police station, family, friends and everyone in the range of vicinity without generating unnecessary alarm.</string>
+
+    <!-- Buttons -->
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="your_safety_is_our_mission_together_let_s_create_a_safer_world_for_every_woman">Your safety is our mission. Together, let\'s create a safer world for every woman.</string>
+    <string name="welcome_onboard">Welcome Onboard!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="logo">logo</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="signin">Sign In</string>
+    <string name="confirm_new_password">Confirm new Password</string>
+    <string name="enter_new_password">Enter new Password</string>
+    <string name="_100">100</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="_102">102</string>
+    <string name="child_helpline">Child Helpline</string>
+    <string name="_1098">1098</string>
+    <string name="emergency_sms">Emergency SMS</string>
+    <string name="back">Back</string>
+    <string name="women_helpline">Women Helpline</string>
+    <string name="_1091">1091</string>
+    <string name="ambulancee">ambulance</string>
+    <string name="app_logo">App Logo</string>
+    <string name="welcome">Welcome!</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="emergency_location">Emergency Location</string>
+    <string name="safety_device">Safety device</string>
+</resources>

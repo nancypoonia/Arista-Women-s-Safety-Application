@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310584037784",
+    "project_id": "arista-firebase",
+    "storage_bucket": "arista-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310584037784:android:f5edab516740532a461bed",
+        "android_client_info": {
+          "package_name": "com.example.arista1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSnMrvOLMeNwtvjT9qVOkTEDtuUwYVOeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
