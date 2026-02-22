@@ -62,7 +62,7 @@ This project aims to leverage mobile technology to improve women's safety by pro
 
 ## 👩‍💻 Team Members
 
-Nancy
-Priyal
-Shrey
-Vidipt
+- Nancy
+- Priyal
+- Shrey
+- Vidipt
