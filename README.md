@@ -26,7 +26,7 @@ The project focuses on usability, reliability, and quick response functionality.
 ## 🛠 Tech Stack
 
 - **Android Studio**
-- **Kotlin / Java**
+- **Java**
 - **Firebase Authentication**
 - **Firebase Realtime Database**
 - **Google Maps API**
